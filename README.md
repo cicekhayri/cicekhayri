@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 How to reach me: <br>
-[Twitter](https://www.twitter.com/cicekhayri)
+[Blog](https://www.kodnito.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/cicekhayri)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/cicekhayri)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicekhayri&hide=css,html)
